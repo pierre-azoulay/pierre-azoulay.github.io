@@ -10,11 +10,6 @@ author_profile: true
 Azoulay, Pierre; Greenblatt, Wesley H. Working Paper, February 2025.
 \[[NBER Working Paper](https://www.nber.org/papers/w33495)\]
 
-**The Rise of For-Profit Experimental Medicine.**
-Azoulay, Pierre; Fishman, Ariel Y. MIT Sloan Working Paper 6050-20, December 2021.
-\[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3563960)\]
-\[[NBER Working Paper](http://www.nber.org/papers/w26892)\]
-
 ---
 
 ## Published Articles
@@ -228,7 +223,7 @@ Azoulay, Pierre; Shane, Scott.
 
 ---
 
-## Book Chapters and Other Non-peer-reviewed Materials
+## Book Chapters and Other Materials
 
 **Brief of Scholars of Economics and Innovation as Amici Curiae in Support of Plaintiffs-Appellees in Massachusetts v. NIH.**
 Azoulay, Pierre; Gross, Daniel P.; Ouellette, Lisa Larrimore; Sampat, Bhaven.
@@ -284,3 +279,12 @@ Azoulay, Pierre.
 Azoulay, Pierre.
 *Fortune.com*, February 6, 2017.
 \[[Article](http://fortune.com/2017/02/06/big-pharma-donald-trump-drug-prices-costs/)\]
+
+---
+
+## Zombie Papers
+
+**The Rise of For-Profit Experimental Medicine.**
+Azoulay, Pierre; Fishman, Ariel Y. MIT Sloan Working Paper 6050-20, December 2021.
+\[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3563960)\]
+\[[NBER Working Paper](http://www.nber.org/papers/w26892)\]
