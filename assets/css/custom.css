@@ -1,6 +1,12 @@
-/* Rectangular profile photo (like Carolyn Stein's site) */
+/* Rectangular profile photo, left-aligned (like Carolyn Stein's site) */
+.author__avatar {
+  display: block;
+  text-align: left;
+}
+
 .author__avatar img {
   border-radius: 0 !important;
+  margin: 0 !important;
 }
 
 /* Smaller body text to match Carolyn's site */
