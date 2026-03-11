@@ -42,7 +42,7 @@ img.author__avatar,
   margin: 1.5em 0;
 }
 
-/* Push page title down to align with top of photo */
+/* Hide the empty page title and collapse its space */
 .page__title {
-  margin-top: 0.6em;
+  display: none !important;
 }
