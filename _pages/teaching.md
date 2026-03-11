@@ -4,22 +4,26 @@ title: " "
 author_profile: true
 ---
 
-## Competitive Strategy
-Sloan Executive MBA, 16 sessions. Co-taught with [Scott Stern](https://mitsloan.mit.edu/faculty/directory/scott-stern).
-\[[Syllabus](http://s3.amazonaws.com/mitsloan-php/wp-faculty/sites/48/2017/02/21203947/15-714-Competitive-Strategy-Syllabus.pdf)\]
+## Courses
 
-## Innovation Strategy
-Sloan MBA, 12 sessions.
-\[[Syllabus](http://s3.amazonaws.com/mitsloan-php/wp-faculty/sites/48/2017/02/07001825/Azoulay_syllabus_innovation_strategy.pdf)\]
+**15.900 Competitive Strategy.** MBA, co-taught with [Donald Sull](https://mitsloan.mit.edu/faculty/directory/donald-sull).
+\[[Syllabus](/files/syllabi/15.900_compstrat_fall2025.pdf)\]
 
-## Innovation-Driven Advantage
-Sloan Fellows, 18 sessions.
-\[[Syllabus](http://s3.amazonaws.com/mitsloan-php/wp-faculty/sites/48/2017/02/07002452/Azoulay_syllabus_IDA.pdf)\]
+**15.374 Organizing for Innovation.** MBA.
+\[[Syllabus](/files/syllabi/15.374_org4innov_spring2026.pdf)\]
 
-## Economics of Ideas, Innovation, and Entrepreneurship
-PhD Course. Co-taught with [Scott Stern](https://mitsloan.mit.edu/faculty/directory/scott-stern).
-\[[Syllabus](http://s3.amazonaws.com/mitsloan-php/wp-faculty/sites/48/2017/02/07002555/Azoulay_syllabus_PhDclass.pdf)\]
+**15.357 Economics of Ideas & Innovation.** PhD seminar, co-taught with [Scott Stern](https://mitsloan.mit.edu/faculty/directory/scott-stern).
+\[[Syllabus](/files/syllabi/15.357_econ_ideas&innov_fall2025.pdf)\]
 
-## Funding Breakthrough Research at the National Institutes of Health
-Sloan Teaching Case.
-\[[Case Study](http://s3.amazonaws.com/mitsloan-php/wp-faculty/sites/48/2017/02/07002656/Azoulay_nihfundingcase.pdf)\]
+---
+
+## Cases
+
+**Canopy Systems: Building an R&D Portfolio.** MIT Sloan Case 26-241, February 2006.
+\[[Case Study](/files/cases/canopy_systems.02.22.26.pdf)\]
+
+**interviewing.io: Reinventing Technical Hiring.** MIT Sloan Case 23-217, November 2023.
+\[[Case Study](/files/cases/iio.11.03.23.pdf)\]
+
+**Funding Breakthrough Research at the National Institutes of Health.** MIT Sloan Case 15-161, February 2015.
+\[[Case Study](/files/cases/funding_breakthroughs_nih.2.9.2015.pdf)\]
