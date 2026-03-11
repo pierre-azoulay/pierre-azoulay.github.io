@@ -58,5 +58,5 @@ img.author__avatar,
 }
 
 .page__content > *:first-child {
-  margin-top: 0 !important;
+  margin-top: 0.4em !important;
 }
