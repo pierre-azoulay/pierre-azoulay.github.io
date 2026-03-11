@@ -1,6 +1,6 @@
 ---
 permalink: /personal/
-title: "Personal"
+title: " "
 author_profile: true
 ---
 

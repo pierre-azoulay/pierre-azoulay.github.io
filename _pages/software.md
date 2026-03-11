@@ -1,6 +1,6 @@
 ---
 permalink: /software/
-title: "Software"
+title: " "
 author_profile: true
 ---
 

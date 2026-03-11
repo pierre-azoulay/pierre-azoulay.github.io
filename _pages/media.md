@@ -1,6 +1,6 @@
 ---
 permalink: /media/
-title: "Media"
+title: " "
 author_profile: true
 ---
 
