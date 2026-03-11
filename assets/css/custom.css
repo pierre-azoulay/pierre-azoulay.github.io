@@ -46,3 +46,17 @@ img.author__avatar,
 .page__title {
   display: none !important;
 }
+
+/* Remove top padding so content aligns with photo */
+.page__inner-wrap > header {
+  display: none !important;
+}
+
+.page__content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.page__content > *:first-child {
+  margin-top: 0 !important;
+}
