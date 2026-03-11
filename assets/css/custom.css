@@ -41,3 +41,8 @@ img.author__avatar,
 .page__content hr {
   margin: 1.5em 0;
 }
+
+/* Push page title down to align with top of photo */
+.page__title {
+  margin-top: 0.6em;
+}
