@@ -1,0 +1,24 @@
+/* Rectangular profile photo (like Carolyn Stein's site) */
+.author__avatar img {
+  border-radius: 0 !important;
+}
+
+/* Smaller body text to match Carolyn's site */
+.page__content {
+  font-size: 0.85em;
+}
+
+.page__content p,
+.page__content li {
+  font-size: 1em;
+}
+
+/* Slightly smaller h2 headings in content area */
+.page__content h2 {
+  font-size: 1.3em;
+}
+
+/* Tighten up spacing on research page entries */
+.page__content hr {
+  margin: 1.5em 0;
+}

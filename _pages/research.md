@@ -6,11 +6,6 @@ author_profile: true
 
 ## Working Papers
 
-**Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform.**
-Azoulay, Pierre; Gross, Daniel P.; Sampat, Bhaven N. Working Paper, March 2025.
-\[[NBER Working Paper](https://www.nber.org/papers/w33627)\]
-\[[PDF](https://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=10587)\]
-
 **Does Peer Review Penalize Scientific Risk Taking? Evidence from NIH Grant Renewals.**
 Azoulay, Pierre; Greenblatt, Wesley H. Working Paper, February 2025.
 \[[NBER Working Paper](https://www.nber.org/papers/w33495)\]
@@ -23,6 +18,13 @@ Azoulay, Pierre; Fishman, Ariel Y. MIT Sloan Working Paper 6050-20, December 202
 ---
 
 ## Published Articles
+
+**Indirect Cost Recovery in U.S. Innovation Policy: History, Evidence, and Avenues for Reform.**
+Azoulay, Pierre; Gross, Daniel P.; Sampat, Bhaven N.
+*Entrepreneurship & Innovation Policy and the Economy*, 5: 133-182, 2026.
+\[[DOI](https://doi.org/10.1086/738903)\]
+\[[Article](https://www.journals.uchicago.edu/doi/10.1086/738903)\]
+\[[NBER Working Paper](https://www.nber.org/papers/w33627)\]
 
 **What if NIH had Been 40% Smaller?**
 Azoulay, Pierre; Clancy, Matthew; Li, Danielle; Sampat, Bhaven N.
