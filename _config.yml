@@ -1,0 +1,91 @@
+# Site Settings
+locale:                  "en-US"
+title:                   "Pierre Azoulay"
+title_separator:         "-"
+name:                    "Pierre Azoulay"
+description:             "International Programs Professor of Management, MIT Sloan"
+url:                     "https://pierre-azoulay.github.io"
+baseurl:                 ""
+repository:              "pierre-azoulay/pierre-azoulay.github.io"
+
+# Build settings
+remote_theme:            "academicpages/academicpages.github.io"
+markdown:                kramdown
+kramdown:
+  input:                 GFM
+  hard_wrap:             false
+  auto_ids:              true
+  footnote_nr:           1
+  entity_output:         as_char
+  toc_levels:            1..6
+
+# Site Author
+author:
+  name:             "Pierre Azoulay"
+  avatar:           "pierre_azoulay.jpg"
+  bio:              "International Programs Professor of Management"
+  location:         "Cambridge, MA"
+  employer:         "MIT Sloan"
+  email:            "pazoulay@mit.edu"
+  googlescholar:    "https://scholar.google.com/citations?user=9aHwwswAAAAJ"
+  github:           "pierre-azoulay"
+  twitter:          "pierre_azoulay"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - node_modules
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from

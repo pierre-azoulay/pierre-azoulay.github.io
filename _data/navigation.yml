@@ -1,0 +1,15 @@
+main:
+  - title: "Research"
+    url: /research/
+  - title: "Software"
+    url: /software/
+  - title: "Data"
+    url: /data/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Media"
+    url: /media/
+  - title: "CV"
+    url: /files/azoulay_cv.pdf
+  - title: "Personal"
+    url: /personal/
