@@ -6,11 +6,13 @@
   margin: 0 !important;
 }
 
+img.author__avatar,
 .author__avatar img {
   border-radius: 0 !important;
   margin: 0 !important;
   padding: 0 !important;
   max-width: 200px !important;
+  width: 200px !important;
   height: auto !important;
   display: block !important;
 }
