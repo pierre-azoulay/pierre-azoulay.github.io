@@ -9,9 +9,7 @@ redirect_from:
 
 I am the International Programs Professor of Management at [MIT Sloan School of Management](https://mitsloan.mit.edu/) and a Research Associate at the [National Bureau of Economic Research](https://www.nber.org/).
 
-My research examines the organization of the "ideas sector" of the economy, and the consequences of different institutional arrangements for innovation. This includes the impact of different funding regimes on the rate and direction of scientific progress, management practices and culture in scientific laboratories, and connections between risk and return in scientific research. My work sits at the intersection of technical change, labor economics, health economics, and organizational economics.
-
-I collaborate frequently with [Joshua Graff Zivin](https://gps.ucsd.edu/faculty-directory/joshua-graff-zivin.html) of UCSD.
+My research examines the organization of the "ideas sector" of the economy, and the consequences of different institutional arrangements for innovation. The underlying question is how institutional design shapes not only the quantity of knowledge produced, but its direction and character: which questions get asked, who gets to ask them, and how much intellectual risk scientists are willing to bear. My current projects examine management practices and culture in a large sample of biomedical research laboratories, as well as project choice in structural biology.
 
 At MIT Sloan, I teach competitive strategy, technology strategy, platform strategy, and a PhD seminar on the economics of ideas, innovation, and entrepreneurship.
 
@@ -19,7 +17,7 @@ At MIT Sloan, I teach competitive strategy, technology strategy, platform strate
 
 - PhD in Management, MIT
 - MA, Michigan State University
-- Diplome d'Etudes Superieures de Gestion, Institut National des Telecommunications
+- Diplôme d'Études Supérieures de Gestion, Institut Mines-Télécom Business School
 
 ## Contact
 
