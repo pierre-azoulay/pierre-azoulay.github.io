@@ -228,7 +228,12 @@ Azoulay, Pierre; Shane, Scott.
 
 ---
 
-## Book Chapters
+## Book Chapters and Other Non-peer-reviewed Materials
+
+**Brief of Scholars of Economics and Innovation as Amici Curiae in Support of Plaintiffs-Appellees in Massachusetts v. NIH.**
+Azoulay, Pierre; Gross, Daniel P.; Ouellette, Lisa Larrimore; Sampat, Bhaven.
+*Massachusetts v. NIH*, Nos. 25-1343, 25-1344, 25-1345 (1st Cir. 2025), June 20, 2025.
+\[[SSRN](https://ssrn.com/abstract=5315089)\]
 
 **Scientific Grant Funding.**
 Azoulay, Pierre; Li, Danielle.
