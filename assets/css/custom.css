@@ -9,12 +9,8 @@
 img.author__avatar,
 .author__avatar img {
   border-radius: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  max-width: 200px !important;
-  width: 200px !important;
+  max-width: 100% !important;
   height: auto !important;
-  display: block !important;
 }
 
 /* Ensure sidebar content is left-aligned */
