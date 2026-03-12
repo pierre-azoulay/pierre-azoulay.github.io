@@ -123,6 +123,25 @@ a {
   font-size: 0.92em;
 }
 
+/* CV page: align content with top of photo, download button */
+.cv-wrapper {
+  margin-top: -0.4em;
+}
+
+.cv-download-btn {
+  display: inline-block;
+  padding: 0.3em 0.9em;
+  background: #494e52;
+  color: #fff !important;
+  border-radius: 4px;
+  font-size: 0.85em;
+  margin-bottom: 0.5em;
+}
+
+.cv-download-btn:hover {
+  background: #373b3e;
+}
+
 /* Hide footer entirely */
 .page__footer {
   display: none !important;
