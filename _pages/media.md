@@ -23,4 +23,5 @@ author_profile: true
 
 **[NIH research grants yield economic windfall.](http://www.nature.com/news/nih-research-grants-yield-economic-windfall-1.21752)** *Nature*, March 30, 2017.
 
-**[Boston, capitale mondiale des biotechs.](http://s3.amazonaws.com/mitsloan-php/wp-faculty/sites/48/2017/04/05141732/Boston-Capitale-Mondiale-des-Biotechs-Le-Monde-03-31-2017.pdf)** *Le Monde*, March 31, 2017.
+**[Boston, capitale mondiale des biotechs.](https://www.lemonde.fr/economie/article/2017/03/30/boston-capitale-mondiale-des-biotechs_5103251_3234.html)** *Le Monde*, March 31, 2017.
+\[[PDF](/files/media/boston_capitale_biotechs_lemonde_03-31-2017.pdf)\]
