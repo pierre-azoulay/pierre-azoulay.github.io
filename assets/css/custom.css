@@ -16,6 +16,11 @@ img.author__avatar,
   height: auto !important;
 }
 
+/* Hide redundant name below photo (already in masthead) */
+.author__name {
+  display: none !important;
+}
+
 /* Ensure sidebar content is left-aligned */
 .sidebar .author__content,
 .author__urls-wrapper {
