@@ -19,7 +19,7 @@ author_profile: true
 
 ## Astrophotography Galleries
 
-- [Cape Cod 2025](https://sivan-orli.smugmug.com/2025/Cape-Cod-2025)
-- [Cape Cod 2024](https://www.smugmug.com/app/organize/2024/Cape-Cod-2024)
-- [Eclipse in Lake Willoughby, VT](https://sivan-orli.smugmug.com/2024/Eclipse)
-- [Atacama 2023](https://sivan-orli.smugmug.com/2023/Atacama-Trip)
+- [Cape Cod 2025](https://www.smugmug.com/app/organize/Astrophotography-Galleries/Cape-Cod-2025)
+- [Cape Cod 2024](https://sivan-orli.smugmug.com/Astrophotography-Galleries/Cape-Cod-2024)
+- [Eclipse in Lake Willoughby, VT](https://sivan-orli.smugmug.com/Astrophotography-Galleries/Eclipse)
+- [Atacama 2023](https://sivan-orli.smugmug.com/Astrophotography-Galleries/Atacama-Trip-2023)
