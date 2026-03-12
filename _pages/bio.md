@@ -6,7 +6,7 @@ author_profile: true
 
 Pierre Azoulay is the Professor of Management at the MIT Sloan School of Management, a Research Associate at the National Bureau of Economic Research, and a non-resident Senior Fellow at the Institute for Progress.
 
-His research focuses on the impact of different funding regimes on the rate and direction of scientific progress. He is also part of a large team surveying management practices and culture in scientific laboratories on a large scale. His latest projects examine the complex relationship between risk and return in scientific research.
+His research focuses on the impact of different funding regimes on the rate and direction of scientific progress. He is also part of a team surveying management practices and culture in scientific laboratories, along with their impact on scientific productivity and trainee outcomes. His latest projects examine the complex relationship between risk and return in scientific research.
 
 At MIT Sloan, he teaches courses on competitive strategy, technology strategy, and platform strategy, as well as a PhD class on the economics of ideas and innovation.
 
