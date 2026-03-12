@@ -15,7 +15,7 @@ At MIT Sloan, I teach courses in competitive strategy, technology strategy, plat
 
 ## Education
 
-- PhD in Management, MIT
+- PhD, Massachusetts Institute of Technology
 - MA, Michigan State University
 - Diplôme d'Études Supérieures de Gestion, Institut Mines-Télécom Business School
 
