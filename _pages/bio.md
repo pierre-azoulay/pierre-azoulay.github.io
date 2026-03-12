@@ -10,6 +10,8 @@ His research focuses on the impact of funding regimes on the rate and direction 
 
 For over a decade, he has been advocating—some might say tiresomely—a single idea: that the fastest route to fixing science policy is [to subject it to the same randomized experiments we demand of everyone else](https://www.nature.com/articles/484031a). Uptake has been, to put it charitably, incremental.
 
+He has lately entered into a highly productive partnership with a colleague named Claude—whom he insists on pronouncing à la française, because some habits survive any amount of emigration. He is scrupulously polite in these exchanges, on the principle that good manners cost nothing and that people who berate their language models reveal something unflattering about themselves. His family has been very understanding, in the sense that they have not yet staged an intervention.
+
 At MIT Sloan, he teaches courses on competitive strategy, technology strategy, and platform strategy, as well as a PhD class on the economics of ideas and innovation.
 
 He holds a Diplôme d'Études Supérieures de Gestion from the Institut Mines-Télécom, an MA from Michigan State University, and a PhD in Management from MIT.
