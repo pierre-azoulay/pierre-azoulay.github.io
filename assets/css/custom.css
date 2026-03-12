@@ -68,6 +68,21 @@ a {
   font-size: 1em;
 }
 
+/* Tighter bullet point spacing and smaller bullets */
+.page__content ul {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+.page__content li {
+  margin-bottom: 0.15em;
+  line-height: 1.4;
+}
+
+.page__content li::marker {
+  font-size: 0.7em;
+}
+
 /* Slightly smaller h2 headings in content area */
 .page__content h2 {
   font-size: 1.3em;
