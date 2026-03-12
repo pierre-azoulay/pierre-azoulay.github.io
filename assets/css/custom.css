@@ -35,6 +35,12 @@ img.author__avatar,
   display: none !important;
 }
 
+/* Smaller font for sidebar links */
+.author__urls li,
+.author__desktop {
+  font-size: 0.85em !important;
+}
+
 /* Ensure sidebar content is left-aligned */
 .sidebar .author__content,
 .author__urls-wrapper {
