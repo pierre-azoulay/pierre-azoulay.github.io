@@ -4,7 +4,7 @@ main:
   - title: "Bio"
     url: /bio/
   - title: "CV"
-    url: /files/azoulay_cv.pdf
+    url: /cv/
   - title: "Teaching"
     url: /teaching/
   - title: "Software & Data"
