@@ -1,8 +1,15 @@
 /* EB Garamond font — everywhere */
 body, h1, h2, h3, h4, h5, h6,
 .page__content, .author__bio, .author__urls,
-.masthead, .greedy-nav, .greedy-nav a {
+.masthead, .greedy-nav, .greedy-nav a,
+.sidebar, .author__urls-wrapper, .author__desktop,
+.sidebar a, .author__urls li, .author__urls a {
   font-family: 'EB Garamond', Georgia, serif !important;
+}
+
+/* Bigger site title in masthead */
+.masthead .site-title {
+  font-size: 1.4em !important;
 }
 
 /* Rectangular profile photo, left-aligned (like Carolyn Stein's site) */
@@ -36,7 +43,7 @@ img.author__avatar,
 
 /* Base font size (bumped up to compensate for Garamond rendering smaller) */
 html {
-  font-size: 18px;
+  font-size: 20px !important;
 }
 
 .page__content {
