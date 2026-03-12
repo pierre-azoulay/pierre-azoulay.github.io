@@ -11,3 +11,5 @@ main:
     url: /software/
   - title: "Media"
     url: /media/
+  - title: "Personal Corner"
+    url: /personal/
