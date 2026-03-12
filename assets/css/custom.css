@@ -1,5 +1,7 @@
-/* EB Garamond font */
-body, .page__content, .author__bio, .author__urls {
+/* EB Garamond font — everywhere */
+body, h1, h2, h3, h4, h5, h6,
+.page__content, .author__bio, .author__urls,
+.masthead, .greedy-nav, .greedy-nav a {
   font-family: 'EB Garamond', Georgia, serif !important;
 }
 
