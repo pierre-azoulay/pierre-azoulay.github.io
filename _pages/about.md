@@ -11,7 +11,7 @@ I am the International Programs Professor of Management at the [Sloan School of 
 
 My research examines the organization of the "ideas sector" of the economy, and the consequences of different institutional arrangements for innovation. The underlying question is how institutional design shapes not only the quantity of knowledge produced, but its direction and character: which questions get asked, who gets to ask them, and how much risk scientists are willing to bear. My current projects examine management practices and culture in a large sample of biomedical research laboratories, as well as project choice in structural biology.
 
-At MIT Sloan, I teach courses in competitive strategy, technology strategy, platform strategy, and a PhD seminar on the economics of ideas and innovation. With [Danielle Li](https://danielle.li/), I coordinate the PhD program in [Technological Innovation, Entrepreneurship, and Strategy](https://mitsloan.mit.edu/faculty/academic-groups/ties/phd-program) (TIES).
+At MIT Sloan, I teach courses in competitive strategy, technology strategy, platform strategy, and a PhD seminar on the economics of ideas and innovation. With [Danielle Li](https://danielle.li/), I coordinate the PhD program in [Technological Innovation, Entrepreneurship, and Strategy](https://mitsloan.mit.edu/faculty/academic-groups/ties/faculty-centers-initiatives) (TIES).
 
 ## Education
 
