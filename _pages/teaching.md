@@ -21,3 +21,5 @@ author_profile: true
 **[interviewing.io: Reinventing Technical Hiring.](/files/cases/iio.11.03.23.pdf)** MIT Sloan Case 23-217, November 2023.
 
 **[Funding Breakthrough Research at the National Institutes of Health.](/files/cases/funding_breakthroughs_nih.2.9.2015.pdf)** MIT Sloan Case 15-161, February 2015.
+
+<span style="font-size: 0.85em;">*Instructors interested in teaching notes, assignment questions, Excel exhibits, or other supplementary materials for these cases are welcome to [e-mail me](mailto:pazoulay@mit.edu).*</span>
