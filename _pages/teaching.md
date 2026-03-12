@@ -22,4 +22,4 @@ author_profile: true
 
 **[Funding Breakthrough Research at the National Institutes of Health.](/files/cases/funding_breakthroughs_nih.2.9.2015.pdf)** MIT Sloan Case 15-161, February 2015.
 
-<span style="font-size: 0.75em; line-height: 1.15; display: inline-block; margin-top: 1em;">*Instructors interested in teaching notes, assignment questions, excel exhibits, or other supplementary materials for these cases are welcome to [e-mail me](mailto:pazoulay@mit.edu).*</span>
+<span style="font-size: 0.75em; line-height: 1.15; display: inline-block; margin-top: 2em;">*Instructors interested in teaching notes, assignment questions, excel exhibits, or other supplementary materials for these cases are welcome to [e-mail me](mailto:pazoulay@mit.edu).*</span>
