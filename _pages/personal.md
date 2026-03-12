@@ -4,7 +4,7 @@ title: " "
 author_profile: true
 ---
 
-[*Douce France, cher pays de mon enfance...*](/images/douce_france.jpg)
+<span style="font-size: 1.25em;">[*Douce France, cher pays de mon enfance...*](/images/douce_france.jpg)</span>
 
 ## Annotated Paris Google Maps
 
