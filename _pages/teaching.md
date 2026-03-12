@@ -16,7 +16,7 @@ author_profile: true
 
 ## Cases
 
-**[Canopy Systems: Building an R&D Portfolio.](/files/cases/canopy_systems.02.22.26.pdf)** MIT Sloan Case 26-241, February 2006.
+**[Canopy Systems: Building an R&D Portfolio.](/files/cases/canopy_systems.02.22.26.pdf)** MIT Sloan Case 26-241, February 2026.
 
 **[interviewing.io: Reinventing Technical Hiring.](/files/cases/iio.11.03.23.pdf)** MIT Sloan Case 23-217, November 2023.
 
