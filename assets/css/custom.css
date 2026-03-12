@@ -34,9 +34,18 @@ img.author__avatar,
   text-align: left !important;
 }
 
-/* Smaller body text to match Carolyn's site */
+/* Base font size (bumped up to compensate for Garamond rendering smaller) */
+html {
+  font-size: 18px;
+}
+
 .page__content {
   font-size: 0.85em;
+}
+
+/* Remove underlines from links */
+a {
+  text-decoration: none !important;
 }
 
 .page__content p,
