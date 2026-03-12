@@ -116,3 +116,8 @@ a {
 .page__content > *:first-child {
   margin-top: 0.8em !important;
 }
+
+/* Hide footer entirely */
+.page__footer {
+  display: none !important;
+}
