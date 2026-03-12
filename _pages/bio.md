@@ -2,6 +2,7 @@
 permalink: /bio/
 title: " "
 author_profile: true
+avatar: ghibli.png
 ---
 
 Pierre Azoulay is the Professor of Management at the MIT Sloan School of Management, a Research Associate at the National Bureau of Economic Research, and a non-resident Senior Fellow at the Institute for Progress.

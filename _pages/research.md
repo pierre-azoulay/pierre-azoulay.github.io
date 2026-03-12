@@ -2,6 +2,7 @@
 permalink: /research/
 title: " "
 author_profile: true
+avatar: pixar.png
 ---
 
 ## Working Papers

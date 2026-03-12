@@ -2,6 +2,7 @@
 permalink: /media/
 title: " "
 author_profile: true
+avatar: pop_art.png
 ---
 
 **[Study: Does Science Advance One Funeral at a Time?](https://www.capeandislands.org/post/study-does-science-advance-one-funeral-time#stream/0)** *Living Lab Radio (WCAI)*, December 2, 2019.

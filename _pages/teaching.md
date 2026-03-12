@@ -2,6 +2,7 @@
 permalink: /teaching/
 title: " "
 author_profile: true
+avatar: new_yorker.png
 ---
 
 ## Courses

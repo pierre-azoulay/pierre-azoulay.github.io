@@ -2,6 +2,7 @@
 permalink: /software/
 title: " "
 author_profile: true
+avatar: pointilliste.png
 ---
 
 ## Software
