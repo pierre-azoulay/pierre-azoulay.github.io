@@ -4,6 +4,9 @@ title: " "
 author_profile: true
 ---
 
+**[NIH needs reforms, but use a scalpel, not a hatchet.](https://www.bostonglobe.com/2025/03/04/opinion/national-institutes-health-reforms/)** *Boston Globe*, March 4, 2025.
+\[[PDF](/files/media/Flier&Azoulay_BostonGlobe_3-4-2025.pdf)\]
+
 **[Beat COVID-19 Through Innovation.](https://science.sciencemag.org/content/368/6491/553)** *Science*, May 9, 2020.
 
 **[Study: Does Science Advance One Funeral at a Time?](https://www.capeandislands.org/post/study-does-science-advance-one-funeral-time#stream/0)** *Living Lab Radio (WCAI)*, December 2, 2019.
