@@ -23,13 +23,15 @@ kramdown:
 author:
   name:             "Pierre Azoulay"
   avatar:           "pierre_azoulay.jpg"
-  bio:              "Professor of Management. MIT"
+  bio:              "Professor of Management"
   location:         "Cambridge, MA"
   employer:         "MIT Sloan"
   email:            "pazoulay@mit.edu"
   googlescholar:    "https://scholar.google.com/citations?user=9aHwwswAAAAJ"
   github:           "pierre-azoulay"
   twitter:          "pierre_azoulay"
+  orcid:            "https://orcid.org/0000-0001-6511-4824"
+  linkedin:         "pierre-azoulay-855a6a3"
 
 # Reading Files
 include:
