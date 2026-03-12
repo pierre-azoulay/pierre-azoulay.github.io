@@ -1,13 +1,13 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Software & Data"
-    url: /software/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Media"
-    url: /media/
+  - title: "Bio"
+    url: /bio/
   - title: "CV"
     url: /files/azoulay_cv.pdf
-  - title: "Personal"
-    url: /personal/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Software & Data"
+    url: /software/
+  - title: "Media"
+    url: /media/
