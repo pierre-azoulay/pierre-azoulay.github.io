@@ -12,4 +12,4 @@ At MIT Sloan, he teaches courses on competitive strategy, technology strategy, a
 
 He holds a Diplôme d'Études Supérieures de Gestion from the Institut Mines-Télécom, an MA from Michigan State University, and a PhD in Management from MIT.
 
-A research summary published in the NBER Reporter provides a good introduction to his research activities, many of which are performed with Joshua Graff Zivin of UCSD.
+A [research summary](/files/NBER_Reporter_2012_no3.pdf) published in the NBER Reporter provides a good introduction to an earlier phase of his research, much of which was conducted with [Joshua Graff Zivin](https://www.joshgraffzivin.com/) of UCSD.
