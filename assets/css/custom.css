@@ -1,3 +1,8 @@
+/* EB Garamond font */
+body, .page__content, .author__bio, .author__urls {
+  font-family: 'EB Garamond', Georgia, serif !important;
+}
+
 /* Rectangular profile photo, left-aligned (like Carolyn Stein's site) */
 /* Template default: .author__avatar img { max-width:175px; border-radius:50%; padding:5px; border:1px solid } */
 .author__avatar {
