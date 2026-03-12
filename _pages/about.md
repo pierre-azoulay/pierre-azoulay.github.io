@@ -22,6 +22,6 @@ At MIT Sloan, I teach courses in competitive strategy, technology strategy, plat
 ## Contact
 
 - **Office:** MIT Sloan School of Management, 100 Main Street – E62-487, Cambridge, MA 02142
-- **e-mail:** [pazoulay@mit.edu](mailto:pazoulay@mit.edu)
+- **e-mail:** <span class="email-tt">[pazoulay@mit.edu](mailto:pazoulay@mit.edu)</span>
 - **Phone:** (617) 258-9766
-- **Support Staff:** Judith Graham-Robey, [jgrobey@mit.edu](mailto:jgrobey@mit.edu), (617) 253-6680
+- **Support Staff:** Judith Graham-Robey, <span class="email-tt">[jgrobey@mit.edu](mailto:jgrobey@mit.edu)</span>, (617) 253-6680
