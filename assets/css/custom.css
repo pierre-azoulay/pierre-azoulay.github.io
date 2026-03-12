@@ -68,6 +68,11 @@ a {
   font-size: 1em;
 }
 
+/* Tighter paragraph spacing */
+.page__content p {
+  margin-bottom: 0.5em;
+}
+
 /* Tighter bullet point spacing and smaller bullets */
 .page__content ul {
   margin-top: 0.3em;
