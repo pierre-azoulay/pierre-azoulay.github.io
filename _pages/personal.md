@@ -2,7 +2,7 @@
 permalink: /personal/
 title: " "
 author_profile: true
-avatar: renaissance.png
+avatar: fusain.png
 ---
 
 <span style="font-size: 1.25em;">[*Douce France, cher pays de mon enfance...*](/images/douce_france.jpg)</span>
