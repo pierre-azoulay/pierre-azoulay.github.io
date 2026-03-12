@@ -24,7 +24,7 @@ body, h1, h2, h3, h4, h5, h6,
 img.author__avatar,
 .author__avatar img {
   border-radius: 0 !important;
-  max-width: 150px !important;
+  max-width: 160px !important;
   padding: 0 !important;
   border: none !important;
   height: auto !important;
