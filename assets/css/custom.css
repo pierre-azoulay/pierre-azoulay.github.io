@@ -150,7 +150,7 @@ a {
 /* Research page: tighter line-height, slightly more space between articles */
 .research-entries p {
   line-height: 1.19;
-  margin-bottom: 1em;
+  margin-bottom: 1.10em;
   font-size: 17px;
 }
 
