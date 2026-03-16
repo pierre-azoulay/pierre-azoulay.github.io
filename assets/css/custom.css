@@ -149,8 +149,8 @@ a {
 
 /* Research page: tighter line-height, slightly more space between articles */
 .research-entries p {
-  line-height: 1.17;
-  margin-bottom: 0.95em;
+  line-height: 1.18;
+  margin-bottom: 1em;
   font-size: 18px;
 }
 
