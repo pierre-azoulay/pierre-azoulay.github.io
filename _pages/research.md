@@ -5,6 +5,8 @@ author_profile: true
 avatar: pixar.png
 ---
 
+<div class="research-entries" markdown="1">
+
 ## Working Papers
 
 **Does Peer Review Penalize Scientific Risk Taking? Evidence from NIH Grant Renewals.**
@@ -289,3 +291,5 @@ Azoulay, Pierre.
 Azoulay, Pierre; Fishman, Ariel Y. MIT Sloan Working Paper 6050-20, December 2021.
 \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3563960)\]
 \[[NBER Working Paper](http://www.nber.org/papers/w26892)\]
+
+</div>

@@ -5,6 +5,8 @@ author_profile: true
 avatar: pop_art.png
 ---
 
+<div class="media-entries" markdown="1">
+
 **[Study: Does Science Advance One Funeral at a Time?](https://www.capeandislands.org/post/study-does-science-advance-one-funeral-time#stream/0)** *Living Lab Radio (WCAI)*, December 2, 2019.
 
 **[Do the Deaths of Top Scientists Make Way for New Growth?](https://undark.org/2019/11/06/top-scientists-dying/)** *Undark*, November 6, 2019.
@@ -21,3 +23,5 @@ avatar: pop_art.png
 
 **[Boston, capitale mondiale des biotechs.](https://www.lemonde.fr/economie/article/2017/03/30/boston-capitale-mondiale-des-biotechs_5103251_3234.html)** *Le Monde*, March 31, 2017.
 \[[PDF](/files/media/boston_capitale_biotechs_lemonde_03-31-2017.pdf)\]
+
+</div>

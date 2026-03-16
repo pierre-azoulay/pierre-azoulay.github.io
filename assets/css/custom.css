@@ -142,6 +142,17 @@ a {
   background: #373b3e;
 }
 
+/* Media page: more space between entries */
+.media-entries p {
+  margin-bottom: 0.8em;
+}
+
+/* Research page: tighter line-height, slightly more space between articles */
+.research-entries p {
+  line-height: 1.1;
+  margin-bottom: 0.7em;
+}
+
 /* Hide footer entirely */
 .page__footer {
   display: none !important;
