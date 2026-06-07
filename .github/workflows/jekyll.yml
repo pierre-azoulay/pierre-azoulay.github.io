@@ -5,6 +5,10 @@ on:
     branches: ["master"]
   workflow_dispatch:
 
+# Opt JavaScript actions into Node.js 24 (Node 20 is deprecated on the runner).
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: read
   pages: write
