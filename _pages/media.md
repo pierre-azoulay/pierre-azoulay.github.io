@@ -7,6 +7,8 @@ avatar: pop_art.png
 
 <div class="media-entries" markdown="1">
 
+**[The U.S. Research Talent Pipeline Is in Trouble](https://hbr.org/2026/06/the-u-s-research-talent-pipeline-is-in-trouble)** *Harvard Business Review*, June 3, 2026.
+
 **[Study: Does Science Advance One Funeral at a Time?](https://www.capeandislands.org/post/study-does-science-advance-one-funeral-time#stream/0)** *Living Lab Radio (WCAI)*, December 2, 2019.
 
 **[Do the Deaths of Top Scientists Make Way for New Growth?](https://undark.org/2019/11/06/top-scientists-dying/)** *Undark*, November 6, 2019.
