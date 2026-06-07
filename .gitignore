@@ -7,3 +7,5 @@ vendor/
 Gemfile.lock
 node_modules/
 images/*_original.*
+images/originals/
+*.code-workspace
