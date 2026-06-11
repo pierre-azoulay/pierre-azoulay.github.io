@@ -9,6 +9,12 @@ avatar: pixar.png
 
 ## Working Papers
 
+**Before the Exodus? Young Scientists and the Future of US Science.**
+Azoulay, Pierre; Sadun, Raffaella; Scur, Daniela. Working Paper, June 2026.
+\[[NBER Working Paper](https://www.nber.org/papers/w35330)\]
+
+---
+
 **Does Peer Review Penalize Scientific Risk Taking? Evidence from NIH Grant Renewals.**
 Azoulay, Pierre; Greenblatt, Wesley H. Working Paper, February 2025.
 \[[NBER Working Paper](https://www.nber.org/papers/w33495)\]
@@ -257,6 +263,11 @@ In *The Rate & Direction of Inventive Activity Revisited*, eds. Joshua Lerner an
 ---
 
 ## Punditry
+
+**In (Qualified) Defense of the Research Project Grant.**
+Azoulay, Pierre.
+*Science*, 392(6803): 1101, 2026.
+\[[DOI](https://doi.org/10.1126/science.aej2947)\]
 
 **NIH needs reforms, but use a scalpel, not a hatchet.**
 Flier, Jeffrey S.; Azoulay, Pierre.
