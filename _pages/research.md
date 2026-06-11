@@ -267,6 +267,11 @@ Azoulay, Pierre.
 *Science*, 392(6803): 1101, 2026.
 \[[DOI](https://doi.org/10.1126/science.aej2947)\]
 
+**The U.S. Research Talent Pipeline Is in Trouble.**
+Azoulay, Pierre; Sadun, Raffaella; Scur, Daniela.
+*Harvard Business Review*, June 3, 2026.
+\[[Article](https://hbr.org/2026/06/the-u-s-research-talent-pipeline-is-in-trouble)\]
+
 **NIH needs reforms, but use a scalpel, not a hatchet.**
 Flier, Jeffrey S.; Azoulay, Pierre.
 *The Boston Globe*, March 5, 2025.
