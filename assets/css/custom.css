@@ -142,6 +142,28 @@ a {
   background: #373b3e;
 }
 
+/* CV page: PDF.js-rendered pages */
+.cv-viewer-status {
+  font-size: 0.85em;
+  color: #6f777d;
+}
+
+.cv-page {
+  position: relative;
+  margin-bottom: 1em;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+}
+
+.cv-page canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.cv-link {
+  position: absolute;
+}
+
 /* Media page: more space between entries */
 .media-entries p {
   margin-bottom: 0.8em;

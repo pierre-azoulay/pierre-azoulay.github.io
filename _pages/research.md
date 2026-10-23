@@ -16,6 +16,7 @@ Azoulay, Pierre; Sadun, Raffaella; Scur, Daniela. Working Paper, June 2026.
 **Does Peer Review Penalize Scientific Risk Taking? Evidence from NIH Grant Renewals.**
 Azoulay, Pierre; Greenblatt, Wesley H. Working Paper, February 2025.
 \[[NBER Working Paper](https://www.nber.org/papers/w33495)\]
+\[[PDF](/files/papers/azoulay-greenblatt-peer-review-risk.pdf)\]
 
 ---
 
