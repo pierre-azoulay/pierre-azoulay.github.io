@@ -9,7 +9,10 @@ baseurl:                 ""
 repository:              "pierre-azoulay/pierre-azoulay.github.io"
 
 # Build settings
-remote_theme:            "academicpages/academicpages.github.io"
+# Pinned to the theme commit of the last good build (May 2026). Upstream
+# moved to Jekyll 4 / Dart Sass (math.div) in Oct 2026, which the
+# github-pages gem (Jekyll 3.10, libsass) cannot compile.
+remote_theme:            "academicpages/academicpages.github.io@f210ab99145252cd717b8fd390ec58134e2bea37"
 markdown:                kramdown
 kramdown:
   input:                 GFM
